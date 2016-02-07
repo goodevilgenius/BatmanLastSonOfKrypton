@@ -1,8 +1,9 @@
 # Last Days of Krypton
 
-Jor-El looked over his hometown, possibly for the last time. He had attempted,
-in vain, to convince the Science Council of Krypton's impending destruction. His
-words had fallen on deaf ears. He was ridiculed and laughed off the Council.
+Jor-El looked from his balcony over his hometown, possibly for the last time. He
+had attempted, in vain, to convince the Science Council of Krypton's impending
+destruction. His words had fallen on deaf ears. He was ridiculed and laughed off
+the Council.
 
 Lara, his loving wife, approached from behind. "Is it ready?"
 
@@ -51,7 +52,7 @@ certainly die?
 Lara wiped the tear from his eye (had he been crying?) and said, "Let's get
 Kal."
 
-Together, they walked into Kal's nursery, to find their sweet baby peacefully
+Together, they walked into Kal-El's nursery, to find their sweet baby peacefully
 sleeping. Jor-El picked up his son, wrapped in a blanket which bore his family's
 crest, the Kryptonian symbol for hope.
 
