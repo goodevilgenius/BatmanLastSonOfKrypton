@@ -2,8 +2,8 @@
 
 Jor-El looked from his balcony over his hometown, possibly for the last time. He
 had attempted, in vain, to convince the Science Council of Krypton's impending
-destruction. His words had fallen on deaf ears. He was ridiculed and laughed off
-the Council.
+destruction. His words had fallen on deaf ears. They ridiculed him and laughed
+him off the Council.
 
 Lara, his loving wife, approached from behind. "Is it ready?"
 
@@ -17,15 +17,15 @@ Lara, his loving wife, approached from behind. "Is it ready?"
 
 Jor-El sighed. How could anyone be sure of anything anymore?
 
-He replied, "The atmosphere is breathable. The gravity is a bit less than it is
-on Krypton. The dominant species on the planet have strikingly similar features
+He replied, "The atmosphere is breathable. The gravity is a bit less than on
+Krypton. The dominant species on the planet have strikingly similar features 
 to our own. He can blend in as one of them."
 
 "What about the sun? You seemed concerned about the yellow sun that orbits the
 planet," she asked, with a bit of trepidation in her voice. "Are you certain it
 won't harm him?"
 
-"I'm as sure as I can be. I've run as many tests as I can, and I'm fairly
+"I'm as sure as I can be. I've run all the tests as I can, and I'm fairly
 certain that he won't come to any harm. I'm not sure how prolonged exposure will
 affect him," he hesitated. "But it's our best bet."
 
@@ -34,10 +34,10 @@ affect him," he hesitated. "But it's our best bet."
 "I don't know, Lara," Jor-El said. "We can only hope someone will find his ship,
 and raise him to be a good person."
 
-Jor-El embraced his wife. He had been preparing for this for several months
-now. He knew there was no hope for his planet, but he couldn't stand the thought
+Jor-El embraced his wife. He had been preparing for this for man months. He knew
+there was no hope for his planet, but he couldn't stand the thought 
 of his son never growing up to become the man he knew he could be. He prepared a
-ship, just large enough to carry his newborn son, to a planet far away. He
+ship, large enough to carry his newborn son, to a planet far away. He
 didn't have the time to make preparations for he or Lara to escape. He scoured
 the cosmos for a suitable planet. With his limited time, he was only able to
 find one that had a suitable environment, and inhabited by an intelligent
@@ -57,9 +57,9 @@ sleeping. Jor-El picked up his son, wrapped in a blanket which bore his family's
 crest, the Kryptonian symbol for hope.
 
 Jor-El carried his son into his lab, and placed him in the ship. It would
-automatically carry him through a wormhole and land on Earth. It was programmed
-to seek out an area of population, in hopes that he would be found and cared
-for.
+automatically carry him through a wormhole and land on Earth. Jor-El programmed it 
+to seek out an area of population, in hopes that a loving family would find
+Kal-El and care for him.
 
 Lara bent down and kissed her son goodbye. Lara was a strong woman, but not
 strong enough to hold back her tears. Jor-El put his arm around his wife as the
@@ -67,8 +67,8 @@ ship closed, and the ceiling opened. They watched as their only son blasted off
 into the atmosphere, and beyond. They watched well after his ship was gone
 beyond their sight.
 
-They had only a few hours left before the tremors would begin. Those tremors
+They had a few hours left before the tremors would begin. Those tremors
 would conclude with their entire planet ripping itself apart. But at this
-moment, none of that mattered to them anymore. They just stood there, in each
+moment, none of that mattered to them. They stood there, in each
 other's arms, and waited for their world to end.
 
