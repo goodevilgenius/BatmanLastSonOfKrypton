@@ -1,5 +1,13 @@
 # Notes
 
+## Ob-gyn
+
+[Leslie Thompkins](http://dc.wikia.com/wiki/Leslie_Thompkins_%28New_Earth%29) should
+probably be Martha's OB. As a close friend to Thomas, she could be trusted to
+keep Martha's miscarriage a secret, and also to falsify records for Bruce's
+"birth". She could also serve as a surrogate mother to Bruce, as Alfred acts as
+his father. This way, only the two of them will know Bruce's secret.
+
 ## Chapter 3
 
 I'm not sure when his powers should manifest yet. The ramifications for
