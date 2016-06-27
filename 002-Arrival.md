@@ -31,7 +31,7 @@ move the day before either. She called up Thomas, and he assured her that there
 could be any number of reasons why she hadn't felt any movement. But if
 she was concerned, he'd call her doctor to check on the baby that day.
 
-Within an hour, the doctor arrived. He did several tests, but as the visit
+Within an hour, the doctor arrived. She ran several tests, but as the visit
 progressed, Thomas and Martha could both see that the doctor was concerned.
 
 "I'm sorry, Mrs. Wayne. I'm afraid he's stillborn. There's nothing I can do."
