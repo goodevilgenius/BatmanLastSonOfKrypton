@@ -50,3 +50,26 @@ home. I've seen my birth certificate."
 "Of course you're our son, Bruce," said Martha. "We've raised you since you were
 a baby. But the birth certificate is a lie. You weren't born here. You weren't
 even born on this planet."
+
+Thomas and Martha tell Bruce the story of how they found his ship. They share
+with him the information that Jor-El had told him, about his planet's demise.
+
+"So, I'm not human?"
+
+"No," Thomas said. "You're not. But this is your home. This is where you
+belong."
+
+"Bruce," said Martha, "your birth parents loved you very much. That's why they
+sent you away. And your father and I love you with all our hearts. We love you
+no different than if I had given birth to you myself."
+
+Bruce noticed a slight pang of sorrow when she mentioned giving birth, but he
+couldn't understand why.
+
+"I love you too, Mom and Dad."
+
+"There's one more thing," Thomas said. "We learned about your birth planet from
+a message that your birth parents, Jor-El and Lara, left in the pod. They also
+left another message just for you. I'm not able to listen to it. It's encoded to
+only play for you. I think your old enough to meet your birth parents. Would you
+like to listen to the message?"
