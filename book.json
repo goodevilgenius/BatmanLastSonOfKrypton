@@ -1,5 +1,8 @@
 {       
-        "title":"Batman: The Last Son of Krypton",
-        "author":"Dan Jones",
-        "language":"en"
+    "title":"Batman: The Last Son of Krypton",
+    "author":"Dan Jones",
+    "language":"en",
+	"pdf":{
+		"paperSize":"legal"
+	}
 }
